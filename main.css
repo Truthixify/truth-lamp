@@ -139,7 +139,7 @@ main {
     width: 20px;
     height: 40px;
     border-radius: 2px 2px 0 0;
-    background: blue;
+    background: #161313;
     cursor: pointer;
     outline: none;
 }
